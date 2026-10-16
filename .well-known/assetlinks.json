@@ -1,0 +1,23 @@
+{
+  "name": "PhantomHabits",
+  "short_name": "PhantomHabits",
+  "description": "Rastreador de hábitos diarios estilo RPG con parámetros sociales y rachas.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#e60012",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
